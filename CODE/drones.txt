@@ -1,0 +1,4 @@
+Delivery|D1|ARC|55.75|22|20|2|2
+Surveillance|D2|FAC|40|100|2|5|1
+Mapping|D3|REC 22|70|100|1|5|0
+Rescue|D4|KJH|90|18|100|1.5|1
